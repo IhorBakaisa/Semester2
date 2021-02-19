@@ -1,2 +1,2 @@
 # Semester2
-Laboratory works
+Laboratory work
